@@ -3,3 +3,5 @@ __pycache__/
 *.csv
 !templates/30-day-content-calendar.csv
 .DS_Store
+config.bat
+node_modules
